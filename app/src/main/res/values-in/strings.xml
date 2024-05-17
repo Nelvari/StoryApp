@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau berbagi cerita atau pengalaman seru yang terjadi? Di StroyApp aja!</string>
+    <string name="title_welcome_page">Selamat datang di StoryApp!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk berbagi atau membaca cerita yang ada?</string>
+    <string name="name">Nama</string>
+    <string name="desc">Deskripsi</string>
+    <string name="message_password">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="message_email">Format email salah</string>
+    <string name="logout">Keluar</string>
+    <string name="language">Bahasa</string>
+    <string name="date">Tanggal</string>
+    <string name="detail_activity">Detail</string>
+    <string name="upload">Kirim</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="detail_image">Gambar Detail</string>
+    <string name="list_image">Gambar List</string>
+    <string name="welcome_image">Gambar Selamat Datang</string>
+    <string name="signup_image">Gambar Sign In</string>
+    <string name="login_image">Gambar Log In</string>
+    <string name="add_image">Gambar Tambah Cerita</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map">Maps</string>
+    <string name="retry">Coba lagi</string>
+</resources>

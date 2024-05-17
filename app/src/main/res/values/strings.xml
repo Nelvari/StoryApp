@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="message_welcome_page">Want to share an exciting story or experience that happened? On StroyApp!</string>
+    <string name="title_welcome_page">Welcome to StoryApp!</string>
+    <string name="title_signup_page">Complete your personal details below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your data first</string>
+    <string name="title_login_page">Are you ready to share or read the stories?</string>
+    <string name="name">Name</string>
+    <string name="desc">Description</string>
+    <string name="message_password">Password cannot be less than 8 characters</string>
+    <string name="message_email">Incorrect email format</string>
+    <string name="logout">Log Out</string>
+    <string name="language">Language</string>
+    <string name="date">Date</string>
+    <string name="detail_activity">Detail</string>
+    <string name="upload">Upload</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="add_story">Add Story</string>
+    <string name="empty_image_warning">Please insert the image file first.</string>
+    <string name="detail_image">Detail Image</string>
+    <string name="list_image">List Image</string>
+    <string name="welcome_image">Welcome Image</string>
+    <string name="signup_image">Sign In Image</string>
+    <string name="login_image">Log In Image</string>
+    <string name="add_image">Add Story Image</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map">Maps</string>
+    <string name="retry">Retry</string>
+</resources>
